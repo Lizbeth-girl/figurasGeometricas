@@ -16,7 +16,7 @@ public class FigurasGeometricas {
 
         Circulos objCirculo = new Circulos();
 
-        objCirculo.radioCirculo = 4.5;
+        objCirculo.radioCirculo = 4;
         objCirculo.imprimir();
 
         System.out.println("El area del circulo es: " + objCirculo.calcularArea());
